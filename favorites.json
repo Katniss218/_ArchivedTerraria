@@ -1,0 +1,42 @@
+{
+  "World": {
+    ".All[Baza].wld": false,
+    "-.All[Baza].wld": false,
+    "-_-_Baza.wld": false,
+    "Katniss_-_###.wld": true,
+    "-_~_Surowcowa01.wld": false,
+    "-_-_Surowcowa02.wld": false,
+    "-_-_Magazyn.wld": false,
+    "Baza.wld": true,
+    "..wld": false,
+    "...._big.wld": false,
+    "....._big2.wld": false,
+    "..._big3.wld": false,
+    "..._big4.wld": false,
+    "expert_small.wld": false,
+    "Expert_Crimcon_Farm.wld": false,
+    "NMS_Baza.wld": false,
+    "zCustom.wld": false,
+    "zCustomMedium.wld": false,
+    "Kat_-_###.wld": false,
+    "Blahblahbal_-_###.wld": false,
+    "Surowcowa_01.wld": false,
+    "Surowcowa_02.wld": false,
+    "aaaaaaaaa.wld": false,
+    "Backwater_of_Mushrooms.wld": true,
+    "The_Shrublands_of_Services.wld": false,
+    "Nutty_Myth_of_Pickpockets.wld": false,
+    "Teal_Camp.wld": false,
+    "Incompetent_Existence.wld": false,
+    "temp.wld": false,
+    "temp2.wld": false,
+    "1_4_Surowcowa.wld": false,
+    "Katniss218_-_###.wld": false,
+    "Katniss219_-_###.wld": false
+  },
+  "Player": {
+    "maslo22.plr": true,
+    "Katniss.plr": false,
+    "Katniss2.plr": true
+  }
+}
