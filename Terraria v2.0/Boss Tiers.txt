@@ -1,0 +1,22 @@
+2.0 King Slime
+
+3.0 The Eye of Terror
+
+5.0 The Devourer of Worlds
+
+6.0 The Skeleton Boneknapper
+
+8.0 The Wall of Flesh
+##########   8.0 - Hardmode
+
+10.5 The Twins
+11.5 The Destroyer of Worlds
+
+16.0 The Rail         (old. Wall of Steel)
+##########   16.0 - Superhardmode
+
+17.0 The Gargoyle Juggernaut
+
+20.0 Oblivion
+
+24.0 The Leviathan

@@ -1,0 +1,38 @@
+##########   1.0 - Pre-Hardmode
+1.0 Wood
+1.5 Stone
+
+2.5 Copper
+3.0 Iron
+3.5 Silver
+4.0 Gold
+
+5.0 Demonite
+6.0 Dungeon
+6.5 Jungle
+7.5 Molten
+
+8.0 Dark
+##########   8.0 - Hardmode
+
+9.0 Calcium
+10.0 Cobalt
+11.0 Caesium
+
+12.0 Hallowed
+
+16.0 Terra
+##########    16.0 - Superhardmode
+
+17.0 Brimstone
+19.0 Magmatic (Brimstone upgrade)
+
+20.0 Oblivion (Dark-Light)
+
+24.0 RIA
+
+
+
+
+
+
