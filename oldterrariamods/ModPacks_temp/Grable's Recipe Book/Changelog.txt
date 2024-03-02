@@ -1,0 +1,81 @@
+Dark Souls changelog
+Selected one version of the mod (No cheat using F3 as the quick-use key) and removed the other versions.
+
+changelog:
+	v2.1.1:
+		Added new setting "cfg_show_crafting_stations" (for required crafting stations tooltip).
+		Fixed length of some of the setting names not fitting in with Mod Settings gui (old settings will get reset).
+	v2.1.0:
+		Changed Available Mode to respect "cfg_needs_crafting_stations".
+		Fixed saving when creating new characters
+	v2.0.9:
+		Added new settings "cfg_drop_items_before_spawning" and "cfg_drop_maxed_stacks".		
+		Changed the way item spawning was handled, especially the held item.		
+		Removed debug code stealing the K and L keys.
+		Fixed recipe search filtering always using live data.
+		Fixed page/item counter starting at 0 instead of 1.		
+	v2.0.8:
+		Added a search box, that filters recipes by name.
+		Added new settings "cfg_live_search_refresh" and "cfg_deselect_search_on_enter" for the new searchbox.
+		Added new setting "cfg_need_book_to_open" for a mini adventure mode.		
+		Added a cap of 30 characters to items in the mod menu.
+		Fixed loading of enums using the wrong values if new settings were added.
+	v2.0.7:
+		Fixed only listing mods that had ModWorld defined.
+	v2.0.6:
+		Fixed crafting stations not being checked correctly.
+		Fixed item crafting not eating the correct ammount of materials from multiple stacks.
+	v2.0.5:
+		Added new setting "cfg_hide_orig_recipes" to hide the original recipes list.
+	v2.04:
+		Added right mouse button behavior for faster crafting.
+		Added explicit item drop when hands are full.
+		Fixed item crafting not respecting stacks.
+		Fixed item crafting overwriting items in the hand.
+	v2.0.3:
+		Added new setting "cfg_show_spawn_messages".
+		Fixed Large Mode not initializing correctly on game start.		
+	v2.0.2:
+		Added saving & loading of settings and the item thats in the filter slot. (saved with player)
+	v2.0.1:
+		Fixed gui always displaying in non sync mode.
+	v2.0:
+		Added new setting "cfg_close_book_on_inv_close".
+		Added new setting "cfg_sync_with_inv" that overrides the other visebility settings when enabled.
+		Fixed updating AdjTiles before player exists.
+		Fixed available mode not showing recipes that doesnt requiring any tiles sometimes.
+	v1,9:
+		Added new settings "cfg_free_item_crafting" and "cfg_can_create_any_item" for more crafting control in default mode.
+		Fixed recipes being rejected for having no crafting station.
+		Fixed crafting not respecting item crafting settings in default mode.
+	v1.8:
+		Added "Available" recipes button, that shows the same recipies the default one would when activated.		
+		Added coloring of required item count if its missing from players inventory.		
+		Added a "Large Mode" for moar recipes! will only activate if the screen is larger than 800x600.
+		Added own graphic for Recipe Area and better support for skinning.
+		Added checks for nearby crafting stations for NoCheat mode.
+		Added new setting "cfg_large_gui_mode" to disable large mode.
+		Added new setting "cfg_needs_crafting_stations".
+		Added new setting "cfg_live_avail_refresh" for live updating of recipes.
+		Fixed item tooltips displaying even when obscured by menus.
+		Fixed CraftRecipe() not checking multiple stacks before giving up.
+		Fixed item rendering again, there was some alpha issues on some of them.		
+	v1.7:
+		Added a "No Cheat" override, that only allows crafting of recipes and only if the required items are present.
+	v1.6:
+		Fixed stuck mouse bug, made Initialize() and its callees rebuild all data it needs.
+	v1.5:
+		Added mousewheel scrolling of pages.
+		Fixed mouse interaction.
+		Fixed pause handler not respecting AutoPause.
+	v1.4:
+		Added a slot to the inventory that toggles the recipe book and filtering by dropped item.
+		Fixed item rendering with incorrect colors.
+	v1.3:
+		Fixed a few issues with the dropdown menu overlapping.
+	v1.2:
+		Removed usage of InterfaceObj and replaced it with custom graphics.
+	v1.1:
+		Fixed history logic.
+	v1.0:
+		Initial release.

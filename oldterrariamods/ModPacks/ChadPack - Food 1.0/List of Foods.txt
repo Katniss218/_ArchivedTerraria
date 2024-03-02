@@ -1,0 +1,19 @@
+1. Apple
+2. Cheese
+3. Cooked Porkchop
+4. Cooked Rabbit
+5. Milk
+6. Milk Chocolate Bar
+7. Pot of Honey
+8. Pure Chocolate Bar
+9. Raw Beef
+10. Raw Porkchop
+11. Raw Rabbit
+12. Steak
+13. Sugar
+14. Tomato
+15. Apple Crumble Pie
+16. Beer
+17. Dragonbell
+18. Chocolate Pie
+19. Apple Cider

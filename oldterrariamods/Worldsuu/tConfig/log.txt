@@ -1,0 +1,2 @@
+08-14-2013 07:49 v3.3.12322.1200 Unable to locate Terraria. No texture data will be available. 
+08-14-2013 07:54 v3.3.12322.1200 Unable to locate Terraria. No texture data will be available. 

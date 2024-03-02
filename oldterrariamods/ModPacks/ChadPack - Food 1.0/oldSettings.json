@@ -1,0 +1,10 @@
+{
+	"settings": {
+	
+		"pigCode": {
+			"display": "(Unnecessary) Pet Name Cheatcode",
+			"type": "string",
+			"default": "none"
+		}
+	}
+}

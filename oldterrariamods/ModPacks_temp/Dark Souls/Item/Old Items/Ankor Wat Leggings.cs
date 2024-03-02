@@ -1,0 +1,6 @@
+//See here for more player attributes: http://tconfig.wikia.com/wiki/Player_Attributes
+public static void Effects(Player player) {
+	player.moveSpeed += 0.2f;
+	player.magicDamage += 0.30f;
+
+}

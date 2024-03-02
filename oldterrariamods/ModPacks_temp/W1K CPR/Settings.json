@@ -1,0 +1,35 @@
+{
+	"settings":
+	{
+		"speedoverhaul":
+		{
+			"display": "Movement Speed Overhaul (Recommended)",
+			"type": "bool",
+			"serverSynced": true,
+			"ingameLock": true,
+			"displayTrue": "Yes",
+			"displayFalse": "No",
+			"default": true
+		},
+		"newcursor":
+		{
+			"display": "Cursor Visibility Tweak",
+			"type": "bool",
+			"serverSynced": false,
+			"ingameLock": true,
+			"displayTrue": "Yes",
+			"displayFalse": "No",
+			"default": true
+		},
+		"ammofix":
+		{
+			"display": "Ammo's Damage Tweak (Recommended)",
+			"type": "bool",
+			"serverSynced": false,
+			"ingameLock": true,
+			"displayTrue": "Yes",
+			"displayFalse": "No",
+			"default": true
+		}
+	}
+}

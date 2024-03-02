@@ -1,0 +1,10 @@
+Foods{
+	Salami
+	Salami Slice
+	Pizza(crafting=5 Salami Slices,2 Cheese,3 Dough)
+	Bread(crafting=2 Dough)
+}
+
+Materials{
+	
+}

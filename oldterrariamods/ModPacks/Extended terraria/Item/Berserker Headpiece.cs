@@ -1,0 +1,8 @@
+public void Effects(Player player)
+{
+	player.rangedDamage += 0.3f;
+	player.magicDamage += 0.3f;
+	player.meleeDamage += 0.35f;
+	player.meleeSpeed += 0.35f;
+	player.statManaMax2 += 240;
+}

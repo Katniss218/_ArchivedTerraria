@@ -1,0 +1,10 @@
+public void NPCEffects(NPC npc)
+{
+	if (npc.type != Config.npcDefs.byName["King Sting"].type && npc.type != Config.npcDefs.byName["Mechasting"].type && npc.type != Config.npcDefs.byName["Desert Beak"].type && npc.type != Config.npcDefs.byName["Cataryst"].type && npc.type != 4 && npc.type != 13 && npc.type != 14 && npc.type != 15 && npc.type != 35 && npc.type != 36 && npc.type != 50 && npc.type != 87 && npc.type != 88 && npc.type != 89 && npc.type != 90 && npc.type != 91 && npc.type != 92 && npc.type != 113 && npc.type != 114 && npc.type != 125 && npc.type != 126 && npc.type != 127 && npc.type != 128 && npc.type != 129 && npc.type != 130 && npc.type != 131 && npc.type != 134 && npc.type != 135 && npc.type != 136 && npc.type != Config.npcDefs.byName["Oblivion Head 1"].type && npc.type != Config.npcDefs.byName["Oblivion Head 2"].type && npc.type != Config.npcDefs.byName["arm1"].type && npc.type != Config.npcDefs.byName["arm2"].type && npc.type != Config.npcDefs.byName["arm3"].type && npc.type != Config.npcDefs.byName["Armageddon Slime"].type && npc.type != Config.npcDefs.byName["Dragon Lord Head"].type && npc.type != Config.npcDefs.byName["Dragon Lord Body"].type && npc.type != Config.npcDefs.byName["Dragon Lord Legs"].type && npc.type != Config.npcDefs.byName["Dragon Lord Body 2"].type && npc.type != Config.npcDefs.byName["Dragon Lord Body 3"].type && npc.type != Config.npcDefs.byName["Dragon Lord Tail"].type && npc.type != Config.npcDefs.byName["Oblivion Phase 1"].type && npc.type != Config.npcDefs.byName["Oblivion Phase 1 Dead"].type && npc.type != Config.npcDefs.byName["Juggernaut"].type && npc.type != Config.npcDefs.byName["Ultrablivion Head"].type && npc.type != Config.npcDefs.byName["Ultrablivion's Sword"].type && npc.type != Config.npcDefs.byName["UltrOeyeL"].type && npc.type != Config.npcDefs.byName["UltrOeyeR"].type && npc.type != Config.npcDefs.byName["Astigmatazer"].type && npc.type != Config.npcDefs.byName["Infernaspaz"].type && !npc.boss)
+	{
+		npc.life = 0;
+		npc.NPCLoot();
+		npc.active = false;
+		Main.PlaySound(4, (int)npc.position.X, (int)npc.position.Y, npc.soundKilled);
+	}
+} 

@@ -1,0 +1,35 @@
+Never Enough Accessories!
+--------------------------
+28.0.6 (24 Nov. 2012)
+-FIX:Recalibrate Equipment rebalanced(length based on weapon use time)
+
+27.2.5 (30 Oct. 2012)
+-NEW:Accessory Slot+ support
+-NEW:Mod Settings support(turn off auras)
+-FIX:Overcharge now has improved tiers
+-FIX:Skills should no longer bug on death
+
+27.2.4 (12 Oct. 2012)
+-NEW: Class Sparks/Focuses/Souls
+-NEW: Class Skills (Middle click on mouse)
+-FIX: Class system completely redone, sprites redone
+-FIX: Cleaned up Philosopher's Stone coding
+-BUG: Sorcerer's Skill does not have higher tiers
+
+24.0.3 (14 Sept. 2012)
+-NEW: Ranger's items now lower damage but greatly increase critical chance
+-NEW: Warrior's Soul / Ranger's Soul / Sorcerer's Soul
+-NEW: Focus Broken (Debuff from Souls)
+
+24.0.2 (8 Sept. 2012)
+-NEW:Elixir of Life
+-NEW:Immortal's Sickness
+
+24.0.1 (4 Sept. 2012)
+-FIX:Fixed my bad grammar on Ranger's Focus ^-^;;
+-FIX:Warrior's Focus and Sorcerer's Focus now have their proper recipes
+-NEW:Boomerangs are now deal ranged damage, Warrior's Focus no longer has a lower bonus when using flails and spears.
+
+24.0.0 (4 Sept. 2012)
+-Initial Release​
+-Warrior's Focus / Ranger's Focus / Sorcerer's Focus
