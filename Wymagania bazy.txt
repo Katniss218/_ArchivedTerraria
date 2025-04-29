@@ -1,0 +1,44 @@
+Magazyn, rozci¹giwalny w dó³ - musi mieæ dostêp do wszystkich skrzynek w rzêdzie z jednego miejsca.
+
+Magazyn cennoœci #1:
+ - Meble-Legacy
+ - Meble
+ - Meble
+ - Meble
+ - Meble
+ - Œwiat³a
+ - Statuetki
+ - Statuetki
+
+Magazyn Cennoœci #2:
+ - Skrzynki
+ - Gel / Glowsticki
+ - Liny
+ - Pochodnie
+ - Summony
+ - LF / LC / MC
+ - 
+ - 
+
+Magazyn Bossowy:
+ - Maski
+ - Maski
+ - Trofea
+ - Treasure bagi
+
+Magazyn podrêczny - 6+ skrzynek
+
+Magazyn tematyczny - 2 skrzynki per temat.
+ + skrzynka multidungeonowa
+ - Ró¿owy dungeon
+ - Zielony dungeon
+ - Niebieski dungeon
+ - Lihzahrd dungeon
+ - corrupt / crimson / hallow osobno.
+Magazyn na bannery - 6 skrzyñ
+Magazyn na mounty (2 chesty)
+Magazyn na pety (2 chesty)
+Hotel dla NPC, rozci¹giwalny w górê.
+Miejsce na podrêczny crafting. (parter)
+Miejsce na specjalistyczny crafting. (piwnica)
+Pokój prywatny z 3 skrzynkami i ³ó¿kiem.
